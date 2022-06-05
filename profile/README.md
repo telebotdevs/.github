@@ -3,3 +3,7 @@
 <p>Please visit our website for more information.</p>
 <a href="https://telebotdevs.github.io/" target="_blank">Click here.</a>
 
+
+
+
+<img src="https://count.getloli.com/get/@:telebotdevs?theme=rule34" /></a>
